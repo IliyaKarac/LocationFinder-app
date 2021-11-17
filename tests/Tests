@@ -1,0 +1,19 @@
+Tests:
+
+
+Test 1 see if database is populated with 50 addresses:
+See locs_111111_v1 and capture1
+
+Test 2 delete the first location
+See locs_111111_v2 and capture2
+
+Test 3 update location at id 2 with these values: address = test3, latitude = 3, longitude = 3.3
+See locs_111111_v3 and capture3
+
+Test 4 add location with these values: id =51, address = test4, latitude = 4, longitude = 4.4
+See locs_111111_v4 and capture4
+
+Test 5 find the latitude and longitude of Fada, Chad
+See capture 5 the database was not update in this test
+
+
